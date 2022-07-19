@@ -3,11 +3,7 @@ package Model;
 
 import java.util.*;
 
-/**
- * ILOC program.
- *
- * @author Arend Rensink
- */
+
 public class Program {
 
 
